@@ -12,11 +12,12 @@
             <StackLayout Grid.Row="0" 
                          VerticalOptions="CenterAndExpand">
 
-                <Button Text="WARNING"
+                <Button Text="Warning"
                         VerticalOptions="CenterAndExpand"
                         HorizontalOptions="CenterAndExpand"
                         Style="{StaticResource btnStart}"
-                        StyleClass="btnWarning"/>
+                        StyleClass="btnWarning"
+                        />
 
             </StackLayout>
 
