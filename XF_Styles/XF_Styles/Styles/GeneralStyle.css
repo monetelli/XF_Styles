@@ -1,0 +1,31 @@
+﻿^ContentPage
+{
+}
+
+.btnWarning{
+    background-color:orangered;
+}
+
+#btnPeligro{
+    border-radius:80;
+}
+
+StackLayout > button {
+    border-radius: 80;
+    height:120;
+    width:120;
+}
+
+
+Grid button{
+    height:120;
+    width:120;
+}
+
+Grid{
+    background-color:rgb(143,87,157);
+}
+
+Grid > stackLayout{
+    background-color:#BF9FC6;
+}
